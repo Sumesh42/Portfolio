@@ -1,0 +1,152 @@
+body{
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+h2{
+    padding-bottom: 4%;
+    font-weight: bold;
+    color: #434A50  ;
+    letter-spacing: 7px;
+}
+#about-me{
+    padding: 7% 15%;
+}
+
+.about-paragraph{
+    font-family: "Roboto";
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top:4%;
+}
+
+.hobbies {
+    background-color: #51595c;
+    color: white;
+    padding: 5% 0;
+
+}
+.carousel-item{
+    padding: 3% 15%;
+    text-align: center;
+}
+.carousel-inner{
+    height: 400px;
+}
+.hobbies-img {
+    padding: 3% 5%;
+    width: 25%;
+
+}
+.hobbies-heading{
+    color: white;
+    letter-spacing: 7px;
+}
+
+#contact {
+    padding: 4% 15%;
+    background-color: #51595c;
+}
+
+.container-fluid {
+    padding: 3% 15% 8%;
+}
+.card-heading {
+    font-weight: bold;
+}
+
+.icon {
+    color: white;
+    padding: 0 1% 1%;
+}
+ .icon:hover {
+     color: grey;
+ }
+
+#key-strength {
+    padding: 5% 15%;
+}
+
+.key-heading {
+        padding-top: 5%;
+        color: darkgray;
+        font-size: 1.5rem;
+}
+@media (max-width: 1028px) {
+    .key-heading {
+        padding: 3% 0 7%;
+    }
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar-item {
+    font-size: 1.3rem;
+    padding: 0 15px;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.profile-image {
+    padding: 80px 0 50px;
+    width: 250px;
+}
+
+.card-deck {
+    padding: 3%;
+}
+
+.project-image {
+    width: 100%;
+}
+
+#portfolio {
+    padding: 100px;
+    text-align: center;
+    text-justify: auto;
+}
+.skill-icon {
+    width: 200px;
+    padding: 2% 3%;
+}
+
+#title {
+    background-image: url("images/title-image.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.title-heading {
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    padding: 20% 0 3%;
+}
+.title-paragraph {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.technical {
+    padding-left: 13%;
+}
+#technical-skills {
+    background-color: #51595c;
+    padding-top: 7%;
+    color: white;
+}
+
+.technical-list {
+    text-align: left;
+}
+
+
